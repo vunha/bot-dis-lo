@@ -682,4 +682,4 @@ async def noi(ctx, *, message):
     await voice_client.disconnect()
 def is_players_file_exist():
     return os.path.exists(players_file)
-bot.run("MTAwODkzNjYwMjg3MTAyNTcwNA.GBCkzj.AgLcnrcYszAEkXvDAPRdf2SvCEdDZx7R0vIrcg")
+bot.run("token cua m ")
