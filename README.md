@@ -1,4 +1,4 @@
-# bot-dis-lo
+# bot-dis-lỏ =))
 cần cài thư viện mới dùng được nha 
 
 pip install discord
