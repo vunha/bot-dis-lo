@@ -1,4 +1,4 @@
-# bot-dis-lỏ =))
+# five-discord-bot =))
 cần cài thư viện mới dùng được nha 
 
 pip install discord
