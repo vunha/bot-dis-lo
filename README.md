@@ -1,5 +1,6 @@
 # bot-dis-lo
 cần cài thư viện mới dùng được nha 
+
 pip install discord
 
 pip install discord.py
