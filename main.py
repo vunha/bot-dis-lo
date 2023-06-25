@@ -9,10 +9,6 @@ import urllib3
 import re
 import asyncio
 import datetime
-import youtube_dl
-from pytube import YouTube
-from googletrans import Translator
-from gtts import gTTS
 urllib3.disable_warnings()
 
 intents = discord.Intents.default()
